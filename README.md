@@ -62,7 +62,7 @@ codeceptjs run --reporter mochawesome
 
 ## 📌 Notas Gerais
  ---
- Projeto em desenvolvimento!
+#BoraEstudar!
  
 Feito com ❤️ por [E2E Treinamentos](https://github.com/repoe2e) 😊
 ⌨️ Me contate pelo [LinkedIn](https://www.linkedin.com/company/e2e-treinamentos/) 😊
