@@ -30,12 +30,12 @@ Essas instruções permitiração que você obtenha uma cópia do projeto  sua m
 
 Clonar o projeto:
 ```
-git clone <complemento url para clone>
+git clone https://github.com/repoe2e/codecept-web-test.git
 ```
 
 Execute o comando abaixo:
 ```
-git remote add origin <complemento url  do projeto>
+git remote add origin https://github.com/repoe2e/codecept-web-test.git
 ```
 
 ### 🤖 Execute o comando abaixo para instalar das dependências do projeto:
