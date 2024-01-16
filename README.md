@@ -38,7 +38,7 @@ Execute o comando abaixo:
 git remote add origin https://github.com/repoe2e/codecept-web-test.git
 ```
 
-### 🤖 Execute o comando abaixo para instalar das dependências do projeto:
+### 🤖 Execute o comando abaixo para instalar as dependências do projeto:
 ```
 npm install
 npm install --save-dev playwright
